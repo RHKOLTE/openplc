@@ -1,2 +1,2 @@
-# openplce
-OPENPLCE Sample projects.
+# openplc
+OPENPLC Sample projects.
